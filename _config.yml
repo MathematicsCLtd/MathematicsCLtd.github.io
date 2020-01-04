@@ -1,3 +1,7 @@
+theme: jekyll-theme-minimal
+title: Jesse Mathews
+description: Portfolio page
+
 google_analytics: <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-155328086-1"></script>
 <script>
@@ -7,7 +11,3 @@ google_analytics: <!-- Global site tag (gtag.js) - Google Analytics -->
 
   gtag('config', 'UA-155328086-1');
 </script>
-
-theme: jekyll-theme-minimal
-title: Jesse Mathews
-description: Portfolio page
