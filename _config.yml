@@ -1,6 +1,7 @@
 logo: "/images/avatar.jpg"
 title: Jesse Mathews
 description: You can create a Web page on your desktop computer but nobody can see it but you. If your want other people to be able to see your Web pages, you need an account a computer that has a Web server. Nowadays most people have their own computers on their desks, but normally they don't have Web servers and anyway you don't want the whole world coming into your desktop computer to see your web page because (a) it's not designed for that, and (b) who knows what else they might see. And (c) for security reasons, Web servers should be managed by professionals. Most institutions have big central shared computers for this purpose, which usually have a Unix-like operating system such as Linux. You need an account on one of these so you can put your web pages there. If you don't have access to such a computer, you can get a low-cost account on a service like Panix.com.
+<br>
 <a href="https://www.linkedin.com/in/jesse-mathews-20662450/">View My LinkedIn Profile</a>
 
 theme: jekyll-theme-minimal
