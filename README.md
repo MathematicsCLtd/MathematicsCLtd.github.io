@@ -1,5 +1,5 @@
-## About Me:thought_balloon:
+## About Me :thought_balloon:
 
-## Projects:open_file_folder:
+## Projects :open_file_folder:
 
-## Reading List:books:
+## Reading List :books:
