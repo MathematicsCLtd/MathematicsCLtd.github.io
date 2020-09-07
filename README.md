@@ -1,7 +1,7 @@
 ## About Me
   I'm a Data Solutions Specialist at [Avery Dennison](https://www.averydennison.com/en/home/Industries/retail.html), where I integrate customer IT system data into software solutions e.g. RFID supply chain fulfillment. My interests include data visualization, statistics, low-code and no-code process automation.
 <br>  
-  I previously worked as a Data Migration Consultant for [Syniti](https://www.syniti.com/). Extracting data from legacy systems, analyzing data for anamolies, and loading data into SAP.
+  I previously worked as a Data Migration Consultant for [Syniti](https://www.syniti.com/). Extracting data from legacy systems, analyzing data for anamolies, and loading data into ERP systems.
 
 ## Projects
 
